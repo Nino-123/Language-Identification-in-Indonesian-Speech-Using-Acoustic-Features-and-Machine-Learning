@@ -3,6 +3,15 @@
 **Group 5 Final Project — Audio Data Recognition**  
 *Department of Computer Science and Electronics, Universitas Gadjah Mada*
 
+
+## 👥 Contributors
+- Satwika Nino Wandhana - 23/516202/PA/22066
+- Michael Satpelin Williamtu - 23/517103/PA/22151
+- Andi Fayza Maharani - 23/516238/PA/22074
+- Mario Aloysius Lukman - 23/516320/PA/22091
+- Muhammad Razan Alamudi - 3/511396/PA/21784
+
+
 ## 📌 Overview
 
 This project classifies spoken audio in **Indonesian**, **Javanese**, and **Sundanese** using traditional acoustic features and machine learning techniques. It aims to enhance the inclusivity of speech recognition systems in linguistically diverse regions like Indonesia.
@@ -74,11 +83,3 @@ SVM showed the most consistent and accurate performance.
 - Hanifa et al., “Voiced and Unvoiced Separation in Malay Speech”
 - Madiha et al., “Short-time Energy, ZCR, and Autocorrelation for Speech Signals”
 - OpenSLR and Nexdata datasets
-
-## 👥 Contributors
-- Satwika Nino Wandhana - 23/516202/PA/22066
-- Michael Satpelin Williamtu - 23/517103/PA/22151
-- Andi Fayza Maharani - 23/516238/PA/22074
-- Mario Aloysius Lukman - 23/516320/PA/22091
-- Muhammad Razan Alamudi - 3/511396/PA/21784
-
